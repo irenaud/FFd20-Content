@@ -1,5 +1,5 @@
 {
-  "name": "FFd20-Content",
+  "name": "Pf1e_FFd20_Content",
   "title": "PF1 FFd20 Content",
   "description": "Classes, archetypes, gear, spells, this should have it all",
   "version": "0.0.17",
@@ -7,11 +7,11 @@
   "compatibleCoreVersion": "0.8.9",
   "systems": ["pf1"],
   "author": "Ritsu Voices, Tortuun, Greywolfdragon, Pepewai, Tatsu, irenaud",
-  "url":"https://github.com/irenaud/FFd20-Content",
-  "manifest": "https://raw.githubusercontent.com/irenaud/FFd20-Content/main/module.json",
-  "download":"https://github.com/irenaud/FFd20-Content/archive/refs/tags/0.0.17.zip",
-  "readme":"https://github.com/irenaud/FFd20-Content/blob/main/README.md",
-  "changelog":"https://github.com/irenaud/FFd20-Content/blob/main/changelog.md",
+  "url":"https://github.com/irenaud/Pf1e_FFd20_Content",
+  "manifest":"https://raw.githubusercontent.com/irenaud/Pf1e_FFd20_Content/main/module.json",
+  "download":"https://github.com/irenaud/FFd20-Content/archive/refs/tags/v0.01.zip",
+  "readme":"https://github.com/irenaud/Pf1e_FFd20_Content/blob/main/README.md",
+  "changelog":"https://github.com/irenaud/Pf1e_FFd20_Content/blob/main/changelog.md",
   "packs": [
     { "name": "ffd20-class-pack-archer",
       "label": "Class Pack - Archer",
