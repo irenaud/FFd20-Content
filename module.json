@@ -5,7 +5,7 @@
   "version": "v0.01",
   "minimumCoreVersion": "0.8.0",
   "compatibleCoreVersion": "0.8.9",
-  "systems": ["pf1"],
+  "systems": "pf1",
   "author": "Ritsu Voices, Tortuun, Greywolfdragon, Pepewai, Tatsu, irenaud",
   "url":"https://github.com/irenaud/Pf1e_FFd20_Content",
   "manifest":"https://raw.githubusercontent.com/irenaud/Pf1e_FFd20_Content/main/module.json",
